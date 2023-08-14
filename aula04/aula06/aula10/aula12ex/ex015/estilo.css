@@ -1,0 +1,29 @@
+body {
+   background: rgb(91, 91, 236);
+   font: normal 15pt Arial;
+}
+
+header {
+    color:thistle;
+    text-align: center;
+   
+}
+
+section {
+    background: whitesmoke;
+    border-radius: 12px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.466);
+
+
+}
+
+footer {
+    color:thistle;
+    text-align: center;
+    font-style: italic;
+    
+
+}
